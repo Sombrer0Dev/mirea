@@ -1,0 +1,12 @@
+[submodule "BigData"]
+	path = BigData
+	url = git@github.com:Sombrer0Dev/BigData.git
+[submodule "melon-back-end"]
+	path = melon-back-end
+	url = git@github.com:Sombrer0Dev/melon-back-end.git
+[submodule "pks"]
+	path = pks
+	url = git@github.com:Sombrer0Dev/pks.git
+[submodule "server-side"]
+	path = server-side
+	url = git@github.com:Sombrer0Dev/server-side.git
